@@ -198,7 +198,13 @@ body {
 .product button:hover {
     background-color: #023e8a;
 }
-
+section{
+    padding: 20px 30px;
+}
+.contact{
+    text-align: center;
+    padding: 20px;
+}
 footer {
     background-color: #0077b6;
     color: white;
